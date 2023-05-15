@@ -1,0 +1,1 @@
+# sinergi_trainingGit
